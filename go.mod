@@ -1,0 +1,5 @@
+module github.com/QuangVuong85/go-commons-pool
+
+go 1.14
+
+require github.com/stretchr/testify v1.6.1 // indirect
